@@ -2,8 +2,7 @@
 Asp.Net Mvc Upload
 Project based on the blog article at http://enricoacampora.co.uk/archive/aspnet-mvc-file-upload/
 
-
-Asp.Net MVC file upload
+Extract from the original blog article:
 
 In this article we will see how to create a Asp.Net MVC application to upload files which uses custom validation.
 
